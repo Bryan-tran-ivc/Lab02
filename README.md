@@ -1,1 +1,3 @@
-# lab02
+Quang Huy 
+106212636
+Class COS10026.2
